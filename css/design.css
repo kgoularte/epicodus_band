@@ -10,6 +10,15 @@ h2{
   width: 500px;
   float: left;
 }
+.column #one{
+  background-color: blue;
+}
+.column #two{
+  background-color: yellow;
+}
+.column #three{
+  background-color: green;
+}
 
 img {
   width: 300px;
